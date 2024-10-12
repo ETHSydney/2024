@@ -1,7 +1,3 @@
-# project template for ETHSydney 2024 hackathon
-
-<remove this line: reminder - rename the folder to your project name>
-
 # Project Name
 
 Here is a brief introduction for your project, should include:
@@ -20,13 +16,13 @@ Please choose which tracks your project is in, at least choose one:
 
 # Github repo
 
-<add your github repo here>
+add your github repo here
 
 # Team info
 
-<add your team members here, e.g twitter handle or LinkedIn>
+add your team members here, e.g twitter handle or LinkedIn
 
 # slide deck or video
 
-<google slide, or youtube/loom links>
+google slide, or youtube/loom links
 
