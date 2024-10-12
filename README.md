@@ -6,10 +6,12 @@ More info about ETHSydney hackathon, [click here](https://2024.ethsydney.net/)
 
 [Register Now](https://lu.ma/q5q134u6)
 
-# Introduction of submission of your project
+# How to submit your project
 
-- create a new folder with your project name.
-- you can choose the [project template](https://github.com/ETHSydney/2024/tree/main/project-template) to submit.
+- [fork this repo](https://github.com/ETHSydney/2024/fork)
+- create a new folder with your project name in your github repo
+- you can copy and paste the contents from the folder [project template](https://github.com/ETHSydney/2024/tree/main/project-template).
+- create a pull request (here is the tutorial for [How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)) to submit your changes.
 
 Note: all the required information is in the project template.
 
